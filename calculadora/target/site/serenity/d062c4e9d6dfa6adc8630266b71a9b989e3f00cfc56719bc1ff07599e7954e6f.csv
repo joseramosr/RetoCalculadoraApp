@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Validate the division functionality in the calculator app","Validate the division by zero","SUCCESS","2021-09-09T10:34:22.6642436-05:00[America/Bogota]","0.0","34.58"
+"Validate the division functionality in the calculator app","Validate the division of two positive numbers","SUCCESS","2021-09-09T10:34:57.2571685-05:00[America/Bogota]","0.0","48.37"
+"Validate the division functionality in the calculator app","Validate the division with negative numbers","SUCCESS","2021-09-09T10:35:45.6342447-05:00[America/Bogota]","0.0","35.47"

@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Validate the sum functionality in the calculator app","Validate the sum of two numbers where one of them is zero","SUCCESS","2021-09-09T10:40:38.9213294-05:00[America/Bogota]","0.0","33.49"
+"Validate the sum functionality in the calculator app","Validate sum of two positive numbers","SUCCESS","2021-09-09T10:41:12.4151922-05:00[America/Bogota]","0.0","35.85"
+"Validate the sum functionality in the calculator app","Validate the sum of two numbers where the first number is negative","SUCCESS","2021-09-09T10:41:48.2731938-05:00[America/Bogota]","0.0","35.96"

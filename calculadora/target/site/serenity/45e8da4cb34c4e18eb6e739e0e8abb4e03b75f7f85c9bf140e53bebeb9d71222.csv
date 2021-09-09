@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Validate the subtraction functionality in the calculator app","Validate the subtraction of two numbers where one of them is zero","SUCCESS","2021-09-09T10:38:30.2672239-05:00[America/Bogota]","0.0","73.37"
+"Validate the subtraction functionality in the calculator app","Validate the subtraction of two positive numbers","SUCCESS","2021-09-09T10:39:43.6461184-05:00[America/Bogota]","0.0","33.81"
+"Validate the subtraction functionality in the calculator app","Validate the subtraction of two numbers where the first number is negative","SUCCESS","2021-09-09T10:40:17.4603312-05:00[America/Bogota]","0.0","19.62"

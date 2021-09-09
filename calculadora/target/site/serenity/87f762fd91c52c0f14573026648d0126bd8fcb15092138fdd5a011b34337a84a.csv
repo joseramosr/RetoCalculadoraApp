@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Validate the multiplication functionality in the calculator app","Validate the multiplication of two numbers where one of them is zero","SUCCESS","2021-09-09T10:36:27.7895663-05:00[America/Bogota]","0.0","37.39"
+"Validate the multiplication functionality in the calculator app","Validate the multiplication of two positive numbers","SUCCESS","2021-09-09T10:37:05.1882986-05:00[America/Bogota]","0.0","40.06"
+"Validate the multiplication functionality in the calculator app","Validate the multiplication with negative numbers","SUCCESS","2021-09-09T10:37:45.2554655-05:00[America/Bogota]","0.0","42.32"
